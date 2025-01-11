@@ -1,4 +1,4 @@
-Hello, My name is Sirak Tilahun &nbsp; <a href="https://gq.linkedin.com/in/sirak-tilahun-geremew-9509a326?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white"/></a>
+Hello, I am Sirak Tilahun &nbsp; <a href="https://gq.linkedin.com/in/sirak-tilahun-geremew-9509a326?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional with over 15 years of experience in designing and deploying enterprise-level network infrastructures. My work revolves around building secure, resilient systems, where network security and adherence to regulatory policies are always top priorities.
 
