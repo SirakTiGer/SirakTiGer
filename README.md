@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional wi
 
 ## Skills
 - **Cybersecurity**
-    - Incident response and vulnerability management &nbsp;<a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
-    - Firewalls, IDS/IPS configuration &nbsp;<a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
-	- Incident Report and Network trafic analysis &nbsp;  <a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
-	- Conduct a security Audit &nbsp; <a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
+    - Vulenerability Assesment &nbsp;<a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/5.%20Vulnerability%20Assesment%20Sample%20Project.md"><em>Associated Project</em></a>
+    - Implement File Permission control &nbsp;<a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/3.%20File%20Permission%20Control%20with%20Linux.md"><em>Associated Project</em></a>
+	- Incident Report analysis &nbsp;  <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/1.%20Incident%20Report%20Analysis.md"><em>Associated Project</em></a>
+	- Conduct a security Audit &nbsp; <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/2.%20Security%20Audit.md"><em>Associated Project</em></a>
+    - Query Filtering for Cybersecurity &nbsp; <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/4.%20SQL%20filter%20for%20Cyber%20Security.md"><em>Associated Project</em></a>
 - **Networking and Infrastructure**
   - Enterprise network design and deployment &nbsp; <a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
   - Network security and threat mitigation &nbsp; <a href="https://github.com/SirakTiGer/SirakCyberNetHub/projects"><em>Associated Project</em></a>
@@ -45,9 +46,12 @@ Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional wi
 <a href ="https://www.peoplecert.org/for-corporations/certificate-verification-service"><img src="https://img.shields.io/badge/ITIL4_Foundation-92278F?style=for-the-badge&logo=itil&logoColor=white"/></a>
 
 ## Projects
- - Incident Response Analysis with NIST core function (Mock)
- - Linux File Permission Control for cybersecurity (Mock)
- - Applying Filters to SQL Queries for Cybersecurity (Mock)
+- <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/5.%20Vulnerability%20Assesment%20Sample%20Project.md"> Vulenerability Assesment</a>
+- <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/3.%20File%20Permission%20Control%20with%20Linux.md"> Implement File Permission control</a>
+- <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/1.%20Incident%20Report%20Analysis.md"> Incident Report analysis</a>
+- <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/2.%20Security%20Audit.md"> Conduct a security Audit</a>
+- <a href="https://github.com/SirakTiGer/Cybersecurity-Projects/blob/main/4.%20SQL%20filter%20for%20Cyber%20Security.md"> Query Filtering for Cybersecurity</a>
+
  - Enterprise Network Design and Deployment
  - Virtualization using VMware ESXi and Xen Server
  - Voip Implementation using Asterisk
