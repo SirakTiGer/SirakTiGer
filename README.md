@@ -34,6 +34,10 @@ Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional wi
 #### Security  
 <a href ="https://www.openssl.org"><img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/></a>
 <a href ="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="https://www.splunk.com"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/></a>
+<a href="https://suricata.io">
+  <img src="https://img.shields.io/badge/Suricata-E94E1B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgZmlsbD0ibm9uZSIvPjx0%0D%0AZXh0IHg9IjE2IiB5PSI3MiIgZm9udC1zaXplPSI0MHB4IiBmaWxsPSJ3aGl0ZSI+U3VyaWNhdGE8L3Rl%0D%0AeHQ+PC9zdmc+" />
+</a>
 <a href ="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/></a> 
 
 #### Automation and Scripting  
