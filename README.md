@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional wi
 ## Objective
 🔐Passionate About Cybersecurity: In My journey though my profession the increasing sophistication of threats to information privacy and data security has fueled my passion for cybersecurity. I thrive on staying ahead of evolving challenges and continuously enhancing my skills to protect critical information and systems.
 
-💻 What I Bring: Expertise in designing scalable and secure networks. A commitment to building systems that empower organizations to succeed in a digital world.
+💻 What I Bring: Expertise in designing scalable and secure networks. Additionaly with the skills I recently aquired by the interactive and hands on training of Google cybersecurity certification program I am able to identify indicators of compromise, indicators of volurabilities, monitoring traffic with SIEM tools and identify network intrussion using IDS/IPS. Overall, I bring a commitment to building systems that empower organizations to succeed in a digital world 
 
-📈 What I'm Working On: I'm currently learning and exploring projects that bridge my network engineering expertise with advanced cybersecurity practices. 
+📈 What I'm Working On: I'm currently learning and exploring projects that bridge my network engineering expertise with advanced cybersecurity practices and simultaneously persuing my Comptia Security+ certification 
 
 
 ## Skills
