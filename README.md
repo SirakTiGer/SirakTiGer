@@ -1,14 +1,22 @@
 Hello, I am Sirak Tilahun &nbsp; <a href="https://gq.linkedin.com/in/sirak-tilahun-geremew-9509a326?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style-for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional with over 15 years of experience in designing and deploying enterprise-level network infrastructures. My work revolves around building secure, resilient systems, where network security and adherence to regulatory policies are always top priorities.
+Welcome to my GitHub profile!
+I am a Chief Information Security Officer (CISO) with over 15 years of experience in network engineering, IT operations, and cybersecurity, specializing in building secure, resilient, and scalable enterprise environments from the ground up.
 
-## Objective
-🔐Passionate About Cybersecurity: In My journey though my profession the increasing sophistication of threats to information privacy and data security has fueled my passion for cybersecurity. I thrive on staying ahead of evolving challenges and continuously enhancing my skills to protect critical information and systems.
+🎯 Professional Focus
 
-💻 What I Bring: Expertise in designing scalable and secure networks. Additionaly with the skills I recently aquired by the interactive and hands on training of Google cybersecurity certification program I am able to identify indicators of compromise, indicators of volurabilities, monitoring traffic with SIEM tools and identify network intrussion using IDS/IPS. Overall, I bring a commitment to building systems that empower organizations to succeed in a digital world 
+🔐 Cybersecurity Leadership & Strategy
+As a CISO, I lead the design and implementation of organization-wide security controls, policies, and technologies to protect information assets, infrastructure, and users. My work bridges technical execution and security governance, ensuring practical, enforceable, and risk-driven security programs.
 
-📈 What I'm Working On: I'm currently learning and exploring projects that bridge my network engineering expertise with advanced cybersecurity practices and simultaneously persuing my Comptia Security+ certification 
+🧠 Hands-on Security Engineering Background
+I remain deeply technical and actively involved in deploying and managing core security systems, including:
 
+	-Endpoint protection & EDR / Antivirus platforms
+	-Remote Monitoring & Management (RMM) systems
+	-Internal Certificate Authority (CA / PKI) infrastructure
+	-Secure network architectures and segmentation
+	-Identity, access, and authentication controls
+	-Monitoring, logging, and incident detection workflows
 
 ## Skills
 - **Cybersecurity**
