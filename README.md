@@ -10,7 +10,6 @@ As a CISO, I lead the design and implementation of organization-wide security co
 
 🧠 Hands-on Security Engineering Background
 I remain deeply technical and actively involved in deploying and managing core security systems, including:
-
 	-Endpoint protection & EDR / Antivirus platforms
 	-Remote Monitoring & Management (RMM) systems
 	-Internal Certificate Authority (CA / PKI) infrastructure
