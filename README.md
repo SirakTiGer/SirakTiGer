@@ -44,6 +44,9 @@ Welcome to my GitHub profile! I'm a seasoned Network Engineering Professional wi
 #### Automation and Scripting  
 <a href ="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href ="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></a>
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+
 
 ## Certifications
 
